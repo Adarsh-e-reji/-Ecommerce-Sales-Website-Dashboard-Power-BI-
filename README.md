@@ -23,7 +23,7 @@ The **Ecommerce Sales Website Dashboard** is a comprehensive Power BI report bui
 ## **How to Use**
 1. Download the `ecommerce.pbix` file from this repository.
 2. Open it using **Power BI Desktop**.
-3. Upload the CSV files `details.csv`, `orders.csv` or with your own data if needed.
+3. Upload the CSV files - `details.csv`, `orders.csv`.
 4. Click **Refresh** to update the visuals with your dataset.
 
 ## **Screenshot**
