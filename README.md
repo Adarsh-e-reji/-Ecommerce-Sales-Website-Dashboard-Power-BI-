@@ -21,9 +21,9 @@ The **Ecommerce Sales Website Dashboard** is a comprehensive Power BI report bui
   - `orders.csv`: Order metadata including date, state, and city  
 
 ## **How to Use**
-1. Download the `.pbix` file from this repository.
+1. Download the `ecommerce.pbix` file from this repository.
 2. Open it using **Power BI Desktop**.
-3. Replace the existing CSV files (`details.csv`, `orders.csv`) with your own data if needed.
+3. Upload the CSV files `details.csv`, `orders.csv` or with your own data if needed.
 4. Click **Refresh** to update the visuals with your dataset.
 
 ## **Screenshot**
